@@ -1,0 +1,4 @@
+case,question,model answer,reference,correct,u_tokprob,u_se,u_probe
+confident and right,What disease in Loxapine prominently used for?,Schizophrenia,schizophrenia,True,0.025,-0.0,0.274
+uncertain and wrong (caught),Which protein family is epiregulin a member of?,Epothylins,epidermal growth factor family,False,0.681,1.609,0.999
+confident but wrong (missed),What is the generic name for Imfinzi?,Pembrolizumab,Durvalumab,False,0.009,-0.0,0.04
